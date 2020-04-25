@@ -21,7 +21,6 @@ import javax.ws.rs.core.Application;
 
 @Path("/Person")
 public class Person_Rest {
-
 	String url = "jdbc:sqlserver://localhost;";
 	String username = "Aidan";
 	String password = "pass1";
